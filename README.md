@@ -1,20 +1,38 @@
 # Quiz App Hackathon
 
-Welcome to the Hackathon project! Our goal is to build a simple, fun, and educational gamified quiz app using MERN Stack.
+Welcome to the Hackathon project! Our goal is to build a simple, fun, and educational **gamified quiz app** using **MERN Stack**.
 
 
-## Educational Purpose
+## 🎯 Educational Purpose
 
-This project was developed as part of a 5-hour educational hackathon to simulate real-world product development using Scrum and agile practices.
+This project was developed as part of a 5-hour educational hackathon to simulate real-world product development using **Scrum/Jira** and agile practices.
 It is designed to synthesize what we learned throughout the year.
 
 
+## 🚀 Tech Stack
+
+- **Frontend**: React
+- **Backend**: Node.js / Express / MongoDB
+
+
 ## Project Structure
-- **frontend/**: React for UI (User Interface)
-- **backend/**: Node.js/Express as server + MongoDB as database
+
+quiz-app-hackathon/
+├── frontend/
+│   ├── package.json
+│   ├── src/
+│   └── public/
+├── backend/
+│   ├── index.js
+│   ├── package.json
+│   ├── controllers/
+│   ├── routes/
+│   └── models/
+├── README.md
+└── LICENSE
 
 
-## Product Backlog
+## 📌 Product Backlog
 
 Below are the major epics that define the core features of this open source quiz app.
 
@@ -23,7 +41,7 @@ Below are the major epics that define the core features of this open source quiz
 - Cookie Management / Token Refresh
 - Different roles (e.g., Teacher, Student)
 
-### 2. 👨 Student mode
+### 2. 🧑‍🎓 Student mode
 - List quizzes (as topics)
 - Pass a quiz (timer, score...)
 - List recent quizzes
@@ -58,7 +76,7 @@ Below are the major epics that define the core features of this open source quiz
 - Language
 
 
-## License
+## 📄 License
 
 This project is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
