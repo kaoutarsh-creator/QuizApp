@@ -18,18 +18,18 @@ It is designed to synthesize what we learned throughout the year.
 
 Below are the major epics that define the core features of this open source quiz app.
 
-### 1. User Authentication
+### 1. 👥 User Authentication
 - Sign up / Log in
 - Cookie Management / Token Refresh
 - Different roles (e.g., Teacher, Student)
 
-### 2. Student mode
+### 2. 👨 Student mode
 - List quizzes (as topics)
 - Pass a quiz (timer, score...)
 - List recent quizzes
 - List favorite quizzes
 
-### 3. Teacher mode
+### 3. 👨‍🏫 Teacher mode
 - List quizzes (as topics)
 - Create, edit and delete quizzes
 - Create, edit and delete questions
@@ -37,15 +37,25 @@ Below are the major epics that define the core features of this open source quiz
 - Question complexity: 1-5
 - Manage classes
 
-### 4. Gamification & Scoring
+### 4. 🏆 Gamification & Scoring
 - Track scores
 - Display leaderboards
 - Award badges / achievements
 
-### 5. Security
-- SQL Injection
-- XSS
-- Session Hijacking...
+### 5. 🔒 Security
+- Private routing
+- Input validation to prevent Injections (XSS, SQL Injection...)
+- Prevent Session Hijacking...
+
+### 6. 📊 Analytics & Feedback
+- Quiz results dashboard
+- Identify most failed questions
+- Provide answer explanations
+
+### 7. 📱 UI/UX & Accessibility
+- Mobile-friendly design (responsive)
+- Dark mode
+- Language
 
 
 ## License
