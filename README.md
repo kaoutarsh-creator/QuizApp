@@ -17,7 +17,7 @@ It is designed to synthesize what we learned throughout the year.
 
 ## Project Structure
 
-<pre lang="markdown"> ``` 
+<pre lang="markdown">
 quiz-app-hackathon/
 ├── frontend/
 │   ├── package.json
@@ -31,7 +31,7 @@ quiz-app-hackathon/
 │   └── models/
 ├── README.md
 └── LICENSE
-``` </pre>
+</pre>
 
 ## 📌 Product Backlog
 
