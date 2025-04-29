@@ -1,6 +1,6 @@
 # Quiz App Hackathon
 
-Welcome to the Hackathon project! Our goal is to build a simple, fun, and educational **gamified quiz app** using **MERN Stack**.
+Welcome to the Hackathon project! Our goal is to build a simple, fun, and educational **gamified quiz app** using **MERN** (MongoDB, Express, React, Node) Stack.
 
 
 ## 🎯 Educational Purpose
