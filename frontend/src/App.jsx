@@ -878,9 +878,9 @@ function ScorePage({ t, result, setPage }) {
         </p>
 
         <div className="badges">
-          <span>🏆 Fast Learner</span>
-          <span>⭐ Quiz Player</span>
-          <span>🔥 Active Student</span>
+          <span> Fast Learner</span>
+          <span> Quiz Player</span>
+          <span> Active Student</span>
         </div>
 
         <button className="btn primary" onClick={() => setPage("quizzes")}>
