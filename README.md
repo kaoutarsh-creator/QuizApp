@@ -84,3 +84,5 @@ This project is licensed under the [Mozilla Public License 2.0](https://www.mozi
 You are free to use, modify, and distribute this code, provided that any modified files remain under the MPL-2.0 license. For full details, see the [LICENSE](LICENSE) file in this repository.
 
 Frontend developed by Kaoutar Sissah
+
+Frontend developed by Kaoutar Sissah
